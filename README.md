@@ -1,1 +1,1 @@
-choto.github.io
+choto
