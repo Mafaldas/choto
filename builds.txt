@@ -1,6 +1,6 @@
 id="plugin.program.Choto"
 version="1.0"
-zip="https://raw.githubusercontent.com/PrincessRepo/princessrepo.github.io/master/plugin.program.princess-1.0.zip"
+zip="https://raw.githubusercontent.com/Mafaldas/choto.github.io/master/plugin.program.Choto.zip"
 
 name="Build BraavosChoto.kodi"
 version="1.0"
