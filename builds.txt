@@ -2,7 +2,7 @@ id="plugin.program.Choto"
 version="0.1"
 zip="https://raw.githubusercontent.com/Mafaldas/choto/master/plugin.program.Choto.zip-0.1"
 
-name="Build BraavosChoto.kodi"
+name="braavosbyChoto.kodi"
 version="1.0"
 url="https://archive.org/download/braavosbyChoto.kodi/braavosbyChoto.kodi.zip"
 minor="http://"
