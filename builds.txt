@@ -1,6 +1,6 @@
 id="plugin.program.Choto"
 version="1.0"
-zip="https://raw.githubusercontent.com/Mafaldas/choto.github.io/master/plugin.program.Choto.zip"
+zip="https://raw.githubusercontent.com/Mafaldas/choto/master/plugin.program.Choto.zip"
 
 name="Build BraavosChoto.kodi"
 version="1.0"
