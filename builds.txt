@@ -16,7 +16,6 @@ adult="no"
 info="http://"
 description="Para los amigos de Choto"
 
-
 name="Por si te animas a otro"               
 version=""             
 url=""                
