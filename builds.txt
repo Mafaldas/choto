@@ -32,7 +32,7 @@ description="Para los amigos de Choto"
 
 name="Build BraavosChoto.V2"
 version="0.2"
-url="https://"
+url="https://archive.org/download/braavoschoto.v218.6/BraavosChoto.V2_18.6.zip"
 minor="http://"
 gui="http://"
 kodi="18.6"
